@@ -686,3 +686,9 @@
   address: 10 Rue Joule, 33700 Mérignac, France
   description: Robotics, software engineering, AI, reseller
   link: https://www.generationrobots.com
+- name: ESILV - Paris-La Défense
+  type: school
+  lat: 48.896378
+  long: 2.236371
+  description: Engineering school 
+  
